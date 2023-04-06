@@ -62,6 +62,8 @@ Our team of software engineering students has been working diligently on the dev
 
 ### Milestone 1: Mockup Development
 
+[Milestone 1](https://github.com/orgs/mongo-mongoers/projects/1)
+
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
 ![Mockup Page](images/m1Mockup.png)
