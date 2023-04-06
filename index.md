@@ -17,6 +17,44 @@ The primary objective of Club Hub is to streamline the management of clubs and o
 ## Finished Product
 Club Hub is a comprehensive platform designed to meet the unique needs of students in managing clubs and organizations. With a user-friendly interface, students can easily create or join clubs, organize events, communicate with club members, and manage club finances. The platform is scalable and customizable, enabling each club to tailor its page to meet its specific needs. The finished product is a web application that is easily accessible from any device, making it convenient for students to manage their club activities on the go.
 
+### Mockup Page Drafts
+
+#### Landing Page
+
+The main page of the club website that serves as an introduction and entry point for users.
+
+[Landing Page](images/landingPage.png)
+
+#### List Clubs Page
+
+A page that displays a list of all the clubs available on the website.
+
+[List Clubs Page](images/listClubsPage.png)
+
+#### Club Page (individual)
+
+A page that displays detailed information about a particular club, including its description, events, and members.
+
+[Club Page](images/clubPage.png)
+
+#### My Clubs Page
+
+A page that displays the clubs that the current user is a member of.
+
+[My Clubs Page](images/myClubsPage.png)
+
+#### Add Club Page
+
+A page that allows users to add a new club to the website.
+
+[Add Club Page](images/addClubPage.png)
+
+#### Edit Club Page
+
+A page that allows users to edit the details of an existing club on the website.
+
+[Edit Club Page](images/editClubPage.png)
+
 ## State Of Project
 Our team of software engineering students has been working diligently on the development of Club Hub. We are currently in the beta testing phase, and we are actively seeking feedback from users to make improvements to the platform. We have successfully implemented the core features of the application, including club creation, event management, and communication tools. We are continuously working to enhance the user experience and to add new features to make Club Hub the ultimate platform for managing clubs and organizations. Stay tuned for updates as we continue to refine and improve the application.
 
@@ -25,3 +63,5 @@ Our team of software engineering students has been working diligently on the dev
 ### Milestone 1: Mockup Development
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+[Mockup Page](images/m1Mockup.png)
