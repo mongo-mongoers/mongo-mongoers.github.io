@@ -1,4 +1,4 @@
-# Mongo Mongoers
+# Club Hub
 
 ## Table of contents
 
