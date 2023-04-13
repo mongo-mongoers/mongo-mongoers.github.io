@@ -74,6 +74,6 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 
 ![Mockup Page](images/m2ProjectBoard.png)
 
-[Milestone 1 Pages]
+### Milestone 1 Pages
 
 ![Club List Page](images/M1-clublist-page.png)
