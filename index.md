@@ -5,21 +5,26 @@
 * [About Us](#about-us)
 * [Goals](#goals)
 * [Finished Product](#finished-product)
+* [Mockup Page Drafts](#mockup-page-drafts)
 * [State Of Project](#state-of-project)
 
 ## About Us
-[Team Contract](https://docs.google.com/document/d/1XqRXCuDjJ23BOATImhVEAbj1vgFtvK94FJQX5W9s3eI/edit?usp=sharing)
+### [GitHub Organization Page](https://github.com/mongo-mongoers)
+### [Team Contract](https://docs.google.com/document/d/1XqRXCuDjJ23BOATImhVEAbj1vgFtvK94FJQX5W9s3eI/edit?usp=sharing)
+
 
 *Maxwell Pauly, Cash Baker, Liliana Royer, Luu Danny, Patrick Manuel*
+
 Our project represents an opportunity for us to apply the theoretical concepts we have learned in class to real-world problems. We are committed to producing a high-quality product that not only meets our professor's requirements but also demonstrates our passion for computer science. We are a group of passionate computer science students working together on a class project. Our team is comprised of individuals with diverse backgrounds, skill sets, and interests, but we all share a common goal: to develop an innovative solution that will make a difference in the UH community.
 
 ## Goals
 The primary objective of Club Hub is to streamline the management of clubs and organizations within a university or college. Our software engineering team aims to develop a centralized platform that will enable students to connect with each other, join or create clubs, and manage all the relevant activities with ease. With Club Hub, we aim to empower the students to take charge of their extracurricular activities and enhance their overall college experience.
 
 ## Finished Product
+#### [Link to Deployment](46.101.72.186)
 Club Hub is a comprehensive platform designed to meet the unique needs of students in managing clubs and organizations. With a user-friendly interface, students can easily create or join clubs, organize events, communicate with club members, and manage club finances. The platform is scalable and customizable, enabling each club to tailor its page to meet its specific needs. The finished product is a web application that is easily accessible from any device, making it convenient for students to manage their club activities on the go.
 
-### Mockup Page Drafts
+## Mockup Page Drafts
 
 #### Landing Page
 
