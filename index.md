@@ -11,7 +11,10 @@
 * [State Of Project](#state-of-project)
 * [Development History](#development-history)
 
-## [Club Hub (live site)](http://46.101.72.186)
+## Deployment 
+
+This is a link to the live site: [Club Hub (live-site)](http://46.101.72.186)
+
 ## About Us
 ### [GitHub Organization Page](https://github.com/mongo-mongoers)
 ### [Team Contract](https://docs.google.com/document/d/1XqRXCuDjJ23BOATImhVEAbj1vgFtvK94FJQX5W9s3eI/edit?usp=sharing)
