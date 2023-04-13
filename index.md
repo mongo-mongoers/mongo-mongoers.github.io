@@ -8,6 +8,8 @@
 * [State Of Project](#state-of-project)
 
 ## About Us
+[Team Contract](https://docs.google.com/document/d/1XqRXCuDjJ23BOATImhVEAbj1vgFtvK94FJQX5W9s3eI/edit?usp=sharing)
+
 *Maxwell Pauly, Cash Baker, Liliana Royer, Luu Danny, Patrick Manuel*
 Our project represents an opportunity for us to apply the theoretical concepts we have learned in class to real-world problems. We are committed to producing a high-quality product that not only meets our professor's requirements but also demonstrates our passion for computer science. We are a group of passionate computer science students working together on a class project. Our team is comprised of individuals with diverse backgrounds, skill sets, and interests, but we all share a common goal: to develop an innovative solution that will make a difference in the UH community.
 
