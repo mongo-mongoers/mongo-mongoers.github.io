@@ -121,3 +121,5 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 #### Create Club Page
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/74911365/231880724-97171646-d326-45b0-8d7b-f2899c6d5eaa.png">
 
+#### Edit Club Page
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/231881024-30cd6b9d-0449-47a3-a537-a41cb368bfc7.png">
