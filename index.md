@@ -67,3 +67,7 @@ Our team of software engineering students has been working diligently on the dev
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
 ![Mockup Page](images/m1Mockup.png)
+
+[Milestone 2](https://github.com/orgs/mongo-mongoers/projects/2)
+
+The goal of Milestone 2 was to implement dynamic functionalities to the mockup pages by routing them to the database.
