@@ -1,13 +1,17 @@
 # Club Hub
 
 ## Table of contents
-
+* [Deployment](#deployment)
 * [About Us](#about-us)
+  * [GitHub Organization Page](#github-organization-page)
+  * [Team Contract](#team-contract)
 * [Goals](#goals)
 * [Finished Product](#finished-product)
 * [Mockup Page Drafts](#mockup-page-drafts)
 * [State Of Project](#state-of-project)
+* [Development History](development-history)
 
+## [Deployment](https://46.101.72.186)
 ## About Us
 ### [GitHub Organization Page](https://github.com/mongo-mongoers)
 ### [Team Contract](https://docs.google.com/document/d/1XqRXCuDjJ23BOATImhVEAbj1vgFtvK94FJQX5W9s3eI/edit?usp=sharing)
@@ -21,7 +25,6 @@ Our project represents an opportunity for us to apply the theoretical concepts w
 The primary objective of Club Hub is to streamline the management of clubs and organizations within a university or college. Our software engineering team aims to develop a centralized platform that will enable students to connect with each other, join or create clubs, and manage all the relevant activities with ease. With Club Hub, we aim to empower the students to take charge of their extracurricular activities and enhance their overall college experience.
 
 ## Finished Product
-#### [Link to Deployment](46.101.72.186)
 Club Hub is a comprehensive platform designed to meet the unique needs of students in managing clubs and organizations. With a user-friendly interface, students can easily create or join clubs, organize events, communicate with club members, and manage club finances. The platform is scalable and customizable, enabling each club to tailor its page to meet its specific needs. The finished product is a web application that is easily accessible from any device, making it convenient for students to manage their club activities on the go.
 
 ## Mockup Page Drafts
