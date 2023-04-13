@@ -9,7 +9,7 @@
 * [Finished Product](#finished-product)
 * [Mockup Page Drafts](#mockup-page-drafts)
 * [State Of Project](#state-of-project)
-* [Development History](development-history)
+* [Development History](#development-history)
 
 ## [Deployment](https://46.101.72.186)
 ## About Us
@@ -70,7 +70,7 @@ Our team of software engineering students has been working diligently on the dev
 
 ## Development History
 
-### Milestone 1: Mockup Development
+## Milestone 1
 
 [Milestone 1](https://github.com/orgs/mongo-mongoers/projects/1)
 
@@ -84,7 +84,7 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 
 ![Mockup Page](images/m2ProjectBoard.png)
 
-### Milestone 1 Pages
+## Milestone 1 Pages
 
 #### Club List Page
 
@@ -96,15 +96,6 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 
 ![Club Info Page](images/M1-club-info-page.png)
 
-#### Projects Page
-
-
-![Projects Page](images/M1-projects-page.png)
-
-#### Add Project Page
-
-
-![Add Project Page](images/M1-add-project-page.png)
 
 #### Events Page
 
