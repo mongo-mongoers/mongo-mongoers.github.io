@@ -11,7 +11,7 @@
 * [State Of Project](#state-of-project)
 * [Development History](#development-history)
 
-## [Deployment](https://46.101.72.186)
+## [Club Hub (live site)](http://46.101.72.186)
 ## About Us
 ### [GitHub Organization Page](https://github.com/mongo-mongoers)
 ### [Team Contract](https://docs.google.com/document/d/1XqRXCuDjJ23BOATImhVEAbj1vgFtvK94FJQX5W9s3eI/edit?usp=sharing)
@@ -101,4 +101,17 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 
 
 ![Events Page](images/M1-events-page.png)
+
+#### Bookmark Page
+
+<img width="1279" alt="image" src="https://user-images.githubusercontent.com/74911365/231877370-e91428d0-7a28-45d7-a81d-76a9327f3ad0.png">
+
+#### Login Page
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/231877627-83215143-56d9-4928-91d1-01ba0955bd1a.png">
+
+
+#### Signup Page
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/231877724-d918542c-8af2-4028-ad5e-d042961e34a3.png">
 
