@@ -95,7 +95,7 @@ If you have any questions or problems, please email the admins at [email protect
 
 ## Deployment 
 
-This is a link to the live site: [Club Hub (live-site)](https://www.club-hub.site)
+This is a link to the live site: [Club Hub (live-site)](https://club-hub.site)
 
 ## About Us
 ### [GitHub Organization Page](https://github.com/mongo-mongoers)
