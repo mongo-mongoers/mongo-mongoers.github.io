@@ -40,7 +40,7 @@ The assignment will be completed using Meteor, Node.js, MongoDB, and React.
 
 The assignment will be graded on functionality, usability, design, and code quality.
 
-## Club Hub User Guide
+## User Guide
 
 ### Club List Page
 
@@ -248,6 +248,12 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 The goal of Milestone 2 was to implement dynamic functionalities to the mockup pages by routing them to the database. We are also added more UH clubs to the database, implemented an officer role, and the ability for admins and officers CRUD functionality to the events page.
 
 ![Mockup Page](images/m2ProjectBoard.png)
+
+## Milestone 3
+
+[Milestone 3](https://github.com/orgs/mongo-mongoers/projects/3)
+
+The goal of Milestone 3 is to polish up our already existing features. We will remove all the bowfolios boiler plate code. Fix some small CSS bugs, and add images to each club that we added to the database.
 
 ## Milestone 1 Pages
 
