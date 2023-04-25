@@ -80,22 +80,22 @@ Club Hub is a comprehensive platform designed to meet the unique needs of studen
 1. Clone the repo from GitHub:
     
         ```git clone https://github.com/[username]/[reponame].git
-    ```
+        ```
 
 2. Change directory to the app directory:
     
         ```cd [reponame]
-    ```
+        ```
 
 3. Install the dependencies:
     
         ```npm install
-    ```
+        ```
 
 4. Start the app:
     
         ```meteor npm run start
-    ```
+        ```
 
 The app will now be running on `localhost:3000`.
 
@@ -132,11 +132,9 @@ The app will now be running on `localhost:3000`.
 
 3. Then, run the following command to deploy the app:
     
-        ```mup deploy```
+        `mup deploy`
 
 The app will now be deployed to the production environment.
-
-
 
 ## Mockup Page Drafts
 
