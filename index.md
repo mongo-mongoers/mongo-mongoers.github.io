@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [Overview](#overview)
+* [User Guide](#user-guide)
 * [Deployment](#deployment)
 * [About Us](#about-us)
   * [GitHub Organization Page](#github-organization-page)
@@ -38,6 +39,59 @@ Officers will be able to:
 The assignment will be completed using Meteor, Node.js, MongoDB, and React.
 
 The assignment will be graded on functionality, usability, design, and code quality.
+
+## Club Hub User Guide
+
+### Club List Page
+
+The Club List page is where you can view all of the clubs that are available at your university. To bookmark a club, click on the "Bookmark" button next to the club's name. Bookmarked clubs will appear in your Bookmarks page.
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/74911365/234210054-98752d0c-4ead-43f5-b401-f524f738a16b.png">
+
+### Bookmarks Page
+
+The Bookmarks page displays all of the clubs that you have bookmarked. To view the events for a bookmarked club, click on the club's name.
+
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/74911365/234210152-e1136338-9c45-4d16-ab32-e4dfa2bd5ff7.png">
+
+### Events Page
+
+The Events page displays all of the upcoming events for the clubs that you have bookmarked. To view more information about an event, click on the event's title.
+
+[Image of the Events page]
+
+### Club Info Page
+
+The Club Info page displays more information about a specific club. This information includes the club's description, meeting times, and contact information.
+
+<img width="1267" alt="image" src="https://user-images.githubusercontent.com/74911365/234210905-d074e690-a898-4533-a28c-c474f83fd700.png">
+
+### Edit Club Page
+
+The Edit Club page allows you to edit the information for a club that you are the officer of. This information includes the club's name, description, meeting times, and contact information.
+
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/234210706-6145f99e-e694-4c74-8791-5a3a72bd223f.png">
+
+### Create Events Page (for officers)
+
+The Events page allows officers to create events for the club that they are the officer of. This includes the event's title, date, time, location, and description.
+
+[Image of the Events page (for officers)]
+
+## How to Become an Officer
+
+To become an officer, you must email the admins at [email protected] with the following information:
+
+* Your name
+* Your student ID number
+* The club that you would like to be an officer of
+
+The admins will review your request and get back to you as soon as possible.
+
+## I Need Help!
+
+If you have any questions or problems, please email the admins at [email protected]
+
 
 ## Deployment 
 
@@ -187,9 +241,11 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 ![Mockup Page](images/m1Mockup.png)
 
+## Milestone 2
+
 [Milestone 2](https://github.com/orgs/mongo-mongoers/projects/2)
 
-The goal of Milestone 2 was to implement dynamic functionalities to the mockup pages by routing them to the database.
+The goal of Milestone 2 was to implement dynamic functionalities to the mockup pages by routing them to the database. We are also added more UH clubs to the database, implemented an officer role, and the ability for admins and officers CRUD functionality to the events page.
 
 ![Mockup Page](images/m2ProjectBoard.png)
 
