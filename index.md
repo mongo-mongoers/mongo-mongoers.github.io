@@ -133,12 +133,12 @@ Club Hub is a comprehensive platform designed to meet the unique needs of studen
 
 1. Clone the repo from GitHub:
     
-        ```git clone https://github.com/[username]/[reponame].git
+        ```git clone https://github.com/mongo-mongoers/club-hub.git
         ```
 
 2. Change directory to the app directory:
     
-        ```cd [reponame]
+        ```cd app
         ```
 
 3. Install the dependencies:
