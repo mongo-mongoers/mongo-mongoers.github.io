@@ -9,6 +9,7 @@
 * [Goals](#goals)
 * [Community Feedback](#community-feedback)
 * [Finished Product](#finished-product)
+* [Developer Guide](#developer-guide)
 * [Mockup Page Drafts](#mockup-page-drafts)
 * [State Of Project](#state-of-project)
 * [Development History](#development-history)
@@ -71,6 +72,75 @@ Overall, the site is a valuable resource for students and club officers.
 
 ## Finished Product
 Club Hub is a comprehensive platform designed to meet the unique needs of students in managing clubs and organizations. With a user-friendly interface, students can easily create or join clubs, organize events, communicate with club members, and manage club finances. The platform is scalable and customizable, enabling each club to tailor its page to meet its specific needs. The finished product is a web application that is easily accessible from any device, making it convenient for students to manage their club activities on the go.
+
+## Developer Guide
+
+### Getting Started
+
+1. Clone the repo from GitHub:
+    
+        ```git clone https://github.com/[username]/[reponame].git
+    ```
+
+2. Change directory to the app directory:
+    
+        ```cd [reponame]
+    ```
+
+3. Install the dependencies:
+    
+        ```npm install
+    ```
+
+4. Start the app:
+    
+        ```meteor npm run start
+    ```
+
+The app will now be running on `localhost:3000`.
+
+### Running Tests
+
+1. To run the tests, use the following command:
+    
+        ```meteor npm run testcafe
+    ```
+
+2. The tests will be run in a browser window.
+
+### Linting
+
+1. To lint the code, use the following command:
+    
+        ```meteor npm run lint
+    ```
+
+2. The linter will report any errors or warnings.
+
+### Deployment
+
+1. To deploy the app, use the following commands:
+    
+        ```mup setup
+    mup deploy
+    ```
+
+2. The app will be deployed to the production environment.
+
+### Getting the .deploy files
+
+1. To get the .deploy files, ask another developer for them.
+
+2. Once you have the .deploy files, place them in the root directory of the app.
+
+3. Then, run the following command to deploy the app:
+    
+        ```mup deploy
+    ```
+
+The app will now be deployed to the production environment.
+
+
 
 ## Mockup Page Drafts
 
