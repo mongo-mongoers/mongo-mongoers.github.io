@@ -1,15 +1,42 @@
 # Club Hub
 
 ## Table of contents
+* [Overview](#overview)
 * [Deployment](#deployment)
 * [About Us](#about-us)
   * [GitHub Organization Page](#github-organization-page)
   * [Team Contract](#team-contract)
 * [Goals](#goals)
+* [Community Feedback](#community-feedback)
 * [Finished Product](#finished-product)
 * [Mockup Page Drafts](#mockup-page-drafts)
 * [State Of Project](#state-of-project)
 * [Development History](#development-history)
+* [Contact Us](#contact-us)
+
+## Overview
+This assignment will allow students to view and bookmark clubs at the university, and officers to make changes to their clubs and create events.
+
+**Part 1: Student View**
+
+Students will be able to:
+
+* View all clubs
+* Filter clubs by category
+* Bookmark favorite clubs
+* View club information
+* View a list of club events
+
+**Part 2: Officer View**
+
+Officers will be able to:
+
+* Update club information
+* Create events
+
+The assignment will be completed using Meteor, Node.js, MongoDB, and React.
+
+The assignment will be graded on functionality, usability, design, and code quality.
 
 ## Deployment 
 
@@ -26,6 +53,21 @@ Our project represents an opportunity for us to apply the theoretical concepts w
 
 ## Goals
 The primary objective of Club Hub is to streamline the management of clubs and organizations within a university or college. Our software engineering team aims to develop a centralized platform that will enable students to connect with each other, join or create clubs, and manage all the relevant activities with ease. With Club Hub, we aim to empower the students to take charge of their extracurricular activities and enhance their overall college experience.
+
+## Community Feedback
+
+* The site is easy to use and navigate.
+* The information is well-organized and easy to find.
+* The site is visually appealing.
+* The site is responsive and works well on mobile devices.
+
+Some suggestions for improvement include:
+
+* Adding more features, such as the ability to create and manage events.
+* Adding more clubs to the database.
+* Improving the search functionality.
+
+Overall, the site is a valuable resource for students and club officers.
 
 ## Finished Product
 Club Hub is a comprehensive platform designed to meet the unique needs of students in managing clubs and organizations. With a user-friendly interface, students can easily create or join clubs, organize events, communicate with club members, and manage club finances. The platform is scalable and customizable, enabling each club to tailor its page to meet its specific needs. The finished product is a web application that is easily accessible from any device, making it convenient for students to manage their club activities on the go.
@@ -123,3 +165,9 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 
 #### Edit Club Page
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/231881024-30cd6b9d-0449-47a3-a537-a41cb368bfc7.png">
+
+
+## Contact Us
+
+This website was developed by Maxwell Pauly, Cash Baker, Liliana Royer, Luu Danny, and Patrick Manuel. You can contact us at our GitHub organization: https://github.com/mongo-mongoers or email us at clubhub@notarealemail.com.
+
