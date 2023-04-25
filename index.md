@@ -58,7 +58,7 @@ The Bookmarks page displays all of the clubs that you have bookmarked. To view t
 
 The Events page displays all of the upcoming events for the clubs that you have bookmarked. To view more information about an event, click on the event's title.
 
-[Image of the Events page]
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/234212179-4b6dea97-7499-456c-be88-ddd8dff89a75.png">
 
 ### Club Info Page
 
@@ -76,7 +76,7 @@ The Edit Club page allows you to edit the information for a club that you are th
 
 The Events page allows officers to create events for the club that they are the officer of. This includes the event's title, date, time, location, and description.
 
-[Image of the Events page (for officers)]
+<img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/234212417-321b4307-44d7-4771-8790-bcea169cf948.png">
 
 ## How to Become an Officer
 
