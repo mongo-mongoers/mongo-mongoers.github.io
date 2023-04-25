@@ -103,8 +103,7 @@ The app will now be running on `localhost:3000`.
 
 1. To run the tests, use the following command:
     
-        ```meteor npm run testcafe
-    ```
+        ```meteor npm run testcafe```
 
 2. The tests will be run in a browser window.
 
@@ -112,8 +111,7 @@ The app will now be running on `localhost:3000`.
 
 1. To lint the code, use the following command:
     
-        ```meteor npm run lint
-    ```
+        ```meteor npm run lint```
 
 2. The linter will report any errors or warnings.
 
@@ -122,8 +120,7 @@ The app will now be running on `localhost:3000`.
 1. To deploy the app, use the following commands:
     
         ```mup setup
-    mup deploy
-    ```
+        mup deploy```
 
 2. The app will be deployed to the production environment.
 
@@ -135,8 +132,7 @@ The app will now be running on `localhost:3000`.
 
 3. Then, run the following command to deploy the app:
     
-        ```mup deploy
-    ```
+        ```mup deploy```
 
 The app will now be deployed to the production environment.
 
