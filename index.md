@@ -111,18 +111,48 @@ The primary objective of Club Hub is to streamline the management of clubs and o
 
 ## Community Feedback
 
-* The site is easy to use and navigate.
-* The information is well-organized and easy to find.
-* The site is visually appealing.
-* The site is responsive and works well on mobile devices.
+Below are some comments and feedback from fellow students at UH Manoa.
 
-Some suggestions for improvement include:
-
-* Adding more features, such as the ability to create and manage events.
-* Adding more clubs to the database.
-* Improving the search functionality.
-
-Overall, the site is a valuable resource for students and club officers.
+<div style="margin-bottom: 20px;">
+  <div style="position: relative; display: inline-block; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-family: monospace;">
+    <p style="margin: 0;">"I found the club hub website to be very helpful in finding clubs to join at UH. However, I do wish there was a search function to make it easier to find specific clubs. Although simple in its functionality, it serves its purpose a hub page for students to learn more about the clubs available at UH."</p>
+    <span style="position: absolute; bottom: -8px; left: 10px; border-width: 8px 8px 0; border-style: solid; border-color: #ccc transparent; display: inline-block; width: 0; height: 0;"></span>
+    <span style="position: absolute; bottom: -6px; left: 12px; border-width: 7px 7px 0; border-style: solid; border-color: #f0f0f0 transparent; display: inline-block; width: 0; height: 0;"></span>
+  </div>
+  <p style="margin-top: 10px; padding-left: 20px;">- Jerry</p>
+</div>
+<div style="margin-bottom: 20px;">
+  <div style="position: relative; display: inline-block; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-family: monospace;">
+    <p style="margin: 0;">"This is a neatly constructed site that showcases the numerous clubs at UH. however, since there are so many clubs, after scrolling down for so long, clicking on more info will send you to another page but I want to be able to go back to the position where I was before." </p>
+    <span style="position: absolute; bottom: -8px; left: 10px; border-width: 8px 8px 0; border-style: solid; border-color: #ccc transparent; display: inline-block; width: 0; height: 0;"></span>
+    <span style="position: absolute; bottom: -6px; left: 12px; border-width: 7px 7px 0; border-style: solid; border-color: #f0f0f0 transparent; display: inline-block; width: 0; height: 0;"></span>
+  </div>
+  <p style="margin-top: 10px; padding-left: 20px;">- Michelle</p>
+</div>
+<div style="margin-bottom: 20px;">
+  <div style="position: relative; display: inline-block; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-family: monospace;">
+    <p style="margin: 0;">"The club hub website is a great way to explore the different clubs at UH. I especially like the bookmarking feature, which allows me to keep track of the clubs I'm interested in. The events page is also pretty convenient for keep up with what's going on for my different bookmarked clubs." </p>
+    <span style="position: absolute; bottom: -8px; left: 10px; border-width: 8px 8px 0; border-style: solid; border-color: #ccc transparent; display: inline-block; width: 0; height: 0;"></span>
+    <span style="position: absolute; bottom: -6px; left: 12px; border-width: 7px 7px 0; border-style: solid; border-color: #f0f0f0 transparent; display: inline-block; width: 0; height: 0;"></span>
+  </div>
+  <p style="margin-top: 10px; padding-left: 20px;">- Steven</p>
+</div>
+<div style="margin-bottom: 20px;">
+  <div style="position: relative; display: inline-block; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-family: monospace;">
+    <p style="margin: 0;">"The user interface on this website is very basic and simple, which can be a good thing for some people. However, I personally found it a bit too plain and lacking in personality. Some more creative design elements could make it more engaging and fun to use." </p>
+    <span style="position: absolute; bottom: -8px; left: 10px; border-width: 8px 8px 0; border-style: solid; border-color: #ccc transparent; display: inline-block; width: 0; height: 0;"></span>
+    <span style="position: absolute; bottom: -6px; left: 12px; border-width: 7px 7px 0; border-style: solid; border-color: #f0f0f0 transparent; display: inline-block; width: 0; height: 0;"></span>
+  </div>
+  <p style="margin-top: 10px; padding-left: 20px;">- Satoko</p>
+</div>
+<div style="margin-bottom: 20px;">
+  <div style="position: relative; display: inline-block; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-family: monospace;">
+    <p style="margin: 0;">"I have mixed feelings about the club hub website. On one hand, it's great to have a centralized location to view all the different clubs at UH. However, I do find the site to be a bit overwhelming - there are so many clubs listed that it can be hard to know where to start. Additionally, some of the club descriptions are a bit lacking in detail. Overall, a decent resource for finding clubs, but could be improved." </p>
+    <span style="position: absolute; bottom: -8px; left: 10px; border-width: 8px 8px 0; border-style: solid; border-color: #ccc transparent; display: inline-block; width: 0; height: 0;"></span>
+    <span style="position: absolute; bottom: -6px; left: 12px; border-width: 7px 7px 0; border-style: solid; border-color: #f0f0f0 transparent; display: inline-block; width: 0; height: 0;"></span>
+  </div>
+  <p style="margin-top: 10px; padding-left: 20px;">- Harry</p>
+</div>
 
 ## Finished Product
 Club Hub is a comprehensive platform designed to meet the unique needs of students in managing clubs and organizations. With a user-friendly interface, students can easily create or join clubs, organize events, communicate with club members, and manage club finances. The platform is scalable and customizable, enabling each club to tailor its page to meet its specific needs. The finished product is a web application that is easily accessible from any device, making it convenient for students to manage their club activities on the go.
