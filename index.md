@@ -17,7 +17,7 @@
 * [Contact Us](#contact-us)
 
 ## Overview
-This assignment will allow students to view and bookmark clubs at the university, and officers to make changes to their clubs and create events.
+Students are often bombarded with clubs via flyers and emails and there is no single place to view and keep track of what is out there. This assignment will allow students to view and bookmark all the clubs at UH Manoa. It will also give officers of clubs a platform to make announcements and edit their respective club information.
 
 **Part 1: Student View**
 
@@ -44,7 +44,7 @@ The assignment will be graded on functionality, usability, design, and code qual
 
 ### Club List Page
 
-The Club List page is where you can view all of the clubs that are available at your university. To bookmark a club, click on the "Bookmark" button next to the club's name. Bookmarked clubs will appear in your Bookmarks page.
+The Club List page is where you can view all of the clubs that are available at your university. To bookmark a club, click on the "Bookmark" button next to the club's name. Bookmarked clubs will appear in your Bookmarks page. You may also filter clubs by their respective topics.
 
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/74911365/234210054-98752d0c-4ead-43f5-b401-f524f738a16b.png">
 
@@ -201,7 +201,7 @@ The app will now be running on `localhost:3000`.
 
 ### Deployment
 
-1. To deploy the app, use the following commands:
+1. To deploy the app, use the following commands from the app/.deploy directory:
     
         ```mup setup
         mup deploy```
