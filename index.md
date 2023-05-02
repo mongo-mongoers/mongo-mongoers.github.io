@@ -283,7 +283,7 @@ The goal of Milestone 2 was to implement dynamic functionalities to the mockup p
 
 [Milestone 3](https://github.com/orgs/mongo-mongoers/projects/3)
 
-The goal of Milestone 3 is to polish up our already existing features. We will remove all the bowfolios boiler plate code. Fix some small CSS bugs, and add images to each club that we added to the database.
+The goal of Milestone 3 is to polish up our already existing features. We will remove all the bowfolios boiler plate code. Fix some small CSS bugs, and add images to each club that we added to the database. 
 
 ## Milestone 1 Pages
 
@@ -322,6 +322,26 @@ The goal of Milestone 3 is to polish up our already existing features. We will r
 #### Edit Club Page
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/74911365/231881024-30cd6b9d-0449-47a3-a537-a41cb368bfc7.png">
 
+
+## Milestone 3 Pages
+
+#### Club List Page
+For M3, the club list page now displays clubs with an added dropdown menue to let users filter clubs by topic ("Recreational", "Academic", etc...). This also shows the updated site banner.
+
+![Club List Page](/images/M3-clublist.png)
+
+#### Club Filter 
+
+![Club Filter](/images/M3-clubfilter.png)
+
+#### Event Manager Page
+M3 also adds the ability for club owners to add, edit and remove club events, which is now accessed through the navbar as "Manage Your Events"
+
+![Event Manager](/images/M3-eventmanager.png)
+
+#### Create Event Page
+
+![Create Event ](/images/M3-createevent.png)
 
 ## Contact Us
 
