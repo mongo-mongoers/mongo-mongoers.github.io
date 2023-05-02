@@ -1,5 +1,5 @@
 # Club Hub
-
+[![ci-bowfolios](https://github.com/mongo-mongoers/club-hub/actions/workflows/ci.yml/badge.svg)](https://github.com/mongo-mongoers/club-hub/actions/workflows/ci.yml)
 ## Table of contents
 * [Overview](#overview)
 * [User Guide](#user-guide)
