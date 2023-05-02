@@ -326,7 +326,7 @@ The goal of Milestone 3 is to polish up our already existing features. We will r
 ## Milestone 3 Pages
 
 #### Club List Page
-For M3, the club list page now displays clubs with an added dropdown menue to let users filter clubs by topic ("Recreational", "Academic", etc...). This also shows the updated site banner.
+For M3, the club list page now displays clubs with an added dropdown menue to let users filter clubs by topic ("Recreational", "Academic", etc...). Club card UI elements, which would occasionally display with incorrect spacing, have now been fixed. This also showcases the updated site banner, not unique to the club list page
 
 ![Club List Page](/images/M3-clublist.png)
 
