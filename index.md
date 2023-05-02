@@ -147,7 +147,7 @@ Below are some comments and feedback from fellow students at UH Manoa.
 </div>
 <div style="margin-bottom: 20px;">
   <div style="position: relative; display: inline-block; padding: 10px; background-color: #f0f0f0; border: 1px solid #ccc; border-radius: 4px; font-family: monospace;">
-    <p style="margin: 0;">"I have mixed feelings about the club hub website. On one hand, it's great to have a centralized location to view all the different clubs at UH. However, I do find the site to be a bit overwhelming - there are so many clubs listed that it can be hard to know where to start. Additionally, some of the club descriptions are a bit lacking in detail. Overall, a decent resource for finding clubs, but could be improved." </p>
+    <p style="margin: 0;">"I have mixed feelings about the club hub website. On one hand, it's great to have a centralized location to view all the different clubs at UH. However, I do find the site to be a bit overwhelming because there are so many clubs listed and you can only filter by one type. Overall, a decent resource for finding clubs, but could be improved." </p>
     <span style="position: absolute; bottom: -8px; left: 10px; border-width: 8px 8px 0; border-style: solid; border-color: #ccc transparent; display: inline-block; width: 0; height: 0;"></span>
     <span style="position: absolute; bottom: -6px; left: 12px; border-width: 7px 7px 0; border-style: solid; border-color: #f0f0f0 transparent; display: inline-block; width: 0; height: 0;"></span>
   </div>
